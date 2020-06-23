@@ -355,7 +355,7 @@ form{
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 6px;
-  resize: vertical;
+  resize: none;
 }
 
 input[type=submit] {
